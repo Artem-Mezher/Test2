@@ -9,5 +9,6 @@ public class Turtle {
         Turtle turtle = new Turtle();
         turtle.setName("Arkasha");
         System.out.println(turtle.name);
+        System.out.println(turtle.name1);
     }
 }
