@@ -6,7 +6,7 @@ class MaxMin
     {
         Scanner s=new Scanner(System.in);
 
-        System.out.println("Enter four numbers");
+        System.out.println("Enter numbers");
 
         int a=s.nextInt();
         int b=s.nextInt();
